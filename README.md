@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=tistroy&link=https://wootange31.tistory.com/)](https://wootange31.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-white?style=flat-square&logo=tistroy&link=https://wootange31.tistory.com/)](https://wootange31.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karufuci@gmail.com)](mailto:karufuci@gmail.com)
