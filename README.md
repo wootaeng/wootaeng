@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karufuci@gmail.com)](mailto:karufuci@gmail.com)
 
 
-![snake gif](https://github.com/wootaeng/wootaeng/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/wootaeng/wootaeng/blob/output/github-contribution-grid-snake.svg)
